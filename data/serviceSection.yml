@@ -1,0 +1,34 @@
+---
+enable: true
+topTitle: What I do
+title: > 
+  ## Work Experiences
+
+  Enjoy team diversity and increase their networks among others people in
+  various fields by provided.
+service:
+  - content: >
+      #### Data Scientist | Software Engineer 
+
+      Worked at rideOS.ai 
+    image: images/service/ui-ux.svg
+  - content: >
+      #### External ML Contributor 
+
+      Ruumi
+    image: images/service/web.svg
+  - content: >
+      #### Data Scientist 
+
+      Daimler Mobility Services
+    image: images/service/web.svg
+  - content: >
+      #### ML Intern 
+
+      Uber Technologies Ltd
+    image: images/service/creative.svg
+  - content: >
+      #### iOS Developer
+
+      Zoomcar Pvt Ltd
+    image: images/service/branding.svg

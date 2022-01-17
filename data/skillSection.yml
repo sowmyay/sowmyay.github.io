@@ -1,0 +1,21 @@
+---
+enable: true
+topTitle: My Skills
+content: >
+  ## Why hire me for your next project?
+
+image: images/skill/skill_image.jpg
+
+skill:
+  - title: Python
+    percent: 90
+  - title: SQL
+    percent: 85
+  - title: Pytorch
+    percent: 75
+  - title: Java
+    percent: 70
+  - title: Docker
+    percent: 70
+  - title: Pyspark
+    percent: 50

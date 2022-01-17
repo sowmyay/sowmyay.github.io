@@ -1,0 +1,58 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+paginate = 6
+theme = "portio-custom"
+title = "Sowmya Yellapragada"
+# Main Menu
+[[menu.main]]
+name = "Home"
+url = "#home"
+weight = 1
+[[menu.main]]
+name = "About"
+url = "#about"
+weight = 2
+[[menu.main]]
+name = "Resume"
+url = "#resume"
+weight = 3
+[[menu.main]]
+name = "Blog"
+url = "#blog"
+weight = 4
+
+# Sitemap Menu
+[[menu.sitemap]]
+name = "About me"
+url = "#about"
+weight = 1
+[[menu.sitemap]]
+name = "Resume"
+url = "#resume"
+weight = 2
+[[menu.sitemap]]
+name = "Latest Article"
+url = "blog"
+weight = 3
+
+[params]
+blogPageURL = "blog"
+contactLink = "contact"
+copyright = 'Creative icon by Icons8'
+footerLogo = "images/contact/widget-logo.png"
+logo = "images/site-navigation/logo.png"
+
+[params.address]
+address = "Berlin, Germany"
+email = "sowmyayellapragada@gmail.com"
+
+
+# Social icons
+[[params.social]]
+icon = "fa-github-square"
+url = "https://www.github.com/sowmyay/"
+weight = 1
+[[params.social]]
+icon = "fa-linkedin-square"
+url = "https://www.linkedin.com/in/sowmyay/"
+weight = 2

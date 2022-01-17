@@ -1,0 +1,12 @@
+---
+enable: true
+topTitle: Blog
+title: >
+  ## Recent Article
+
+  Mostly reflections on past projects and interesting technologies that I discovered along the way.
+
+  
+  Also checkout [ML Cheat Sheet](https://medium.com/ml-cheat-sheet) where I cover several ML topics, aimed at beginner and experienced ML Engineers and Data Scientists alike.
+
+buttonTarget: blog

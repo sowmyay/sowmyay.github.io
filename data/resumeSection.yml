@@ -1,0 +1,102 @@
+---
+enable: true
+topTitle: My Resume
+title: >
+  ## My Expertises
+
+  I started my career as a software engineer with a strong background in Mathematics.
+  
+  
+  I soon developed a passion for data focused problem solving and went on to pursuse my masters in Machine Learning.
+
+
+  I am a curious learner and I am always on the lookout for projects that can be uniquely solved using data science and machine learning.   
+
+tab1Name: Education
+tab2Name: Experiences
+tab1Target: education
+tab2Target: experience
+
+education:
+  - content: >
+      #### MSc. Computational Science and Engineering 
+      
+      ##### Specialization: Machine Learning
+
+      Georgia Institue of Technology (GATech)
+    time: 2017-2019 | Atlanta, USA
+  - content: >
+      #### MSc. Mathematics
+
+      Birla Institute of Technology and Sciences (BITS)
+    time: 2011-2016 | Pilani, India
+  - content: >
+      #### B.Eng Manufacturing Engineering
+      
+      Birla Institute of Technology and Sciences (BITS)
+    time: 2011-2016 | Pilani, India
+  
+experience:
+  - content: >
+      #### Senior Software Engineer - Data
+
+      ##### rideOS – a Gopuff company
+
+      Worked in the maps team, where I built and deployed several pipelines for accurate data capture of GPS position updates and trip updates.
+
+      
+      I further built monitoring dashboards that periodically track the quality of the estimated (ETA) and actual time of arrival (ATA).
+
+      
+      I also investigated ML models to improve the performance of ETA predictions and predicting missing speeds on the road network.
+
+    time: 2020-Present | Berlin, Germany
+  
+  - content: >
+      #### Data Scientist
+
+      ##### Daimler Mobility Services
+
+      Worked in the routing team towards improving ETA and route prediction quality.
+
+      
+      Built machine learning models to predict real time road statistics such as transition or turn costs and speeds.
+    time: 2019-2020 | Berlin, Germany
+  - content: >
+      #### Research Assistant
+
+      ##### Center for Spatial Planning Analytics and Visualization 
+
+      Developed an interactive iOS application for location intelligence and geospatial navigation that is specifically targeted for the visually challenged.
+    time: 2018-2019 | Atlanta, USA
+  - content: >
+      #### Machine Learning Intern
+      
+      ##### Uber Technologies, Inc. 
+
+      Worked in the Fraud detection team where I investigated several machine learning models to identify cases of fraud leading to cancellations.
+      
+      
+      Main focus of my project during this period was the analysis taxi GPS data to identify patterns of fraud due to GPS spoofings.
+      I then built a supervised machine learning model to automatically detect cases of repeated fraud due to GPS spoofing in the system.
+
+    time: Summer 2018 | Palo Alto, USA
+  - content: >
+      #### Software Developer
+      
+      ##### Zoomcar Pvt Ltd
+
+      Built and maintained the consumer application that saw over a million active monthly users.
+      
+      
+      Developed several new features, handled software updates, patches, and bug fixes for time-sensitive projects while considering business requirements
+
+    time: 2015-2017 | Bangalore, India
+  - content: >
+      #### Summer Internship
+
+      ##### Indian Institute of Technology, Mumbai
+
+      Developed an image processing - windows desktop application for the identification and manipulation of contours in microscopic images.
+
+    time: Summer 2014 | Mumbai, India

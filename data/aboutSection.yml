@@ -1,0 +1,23 @@
+---
+enable: true
+topTitle:
+title: >
+  ## About me
+
+  Enjoy working with diverse teams, with a focus on data driven problem solving
+content: >
+  ### Building products that matter.
+
+  I believe in the power of software engineering and data science in transforming industries and services alike.
+
+
+  Over the course of my professional career I worked in several industries ranging from manufacturing, agriculture and the service sector.
+
+
+  I enjoy working with diverse teams that build smart technologies to solve unique challenges.
+
+button1Name: Contact me
+button2Name: Download CV
+button1Target: contact
+button2Target: SowmyaYellapragada-G.pdf
+#image: images/about/about-img.jpg
