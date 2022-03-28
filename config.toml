@@ -16,10 +16,10 @@ weight = 2
 name = "Resume"
 url = "#resume"
 weight = 3
-[[menu.main]]
-name = "Blog"
-url = "#blog"
-weight = 4
+#[[menu.main]]
+#name = "Blog"
+#url = "#blog"
+#weight = 4
 
 # Sitemap Menu
 [[menu.sitemap]]
@@ -30,13 +30,13 @@ weight = 1
 name = "Resume"
 url = "#resume"
 weight = 2
-[[menu.sitemap]]
-name = "Latest Article"
-url = "blog"
-weight = 3
+#[[menu.sitemap]]
+#name = "Latest Article"
+#url = "blog"
+#weight = 3
 
 [params]
-blogPageURL = "blog"
+#blogPageURL = "blog"
 contactLink = "contact"
 copyright = 'Creative icon by Icons8'
 footerLogo = "images/contact/widget-logo.png"
