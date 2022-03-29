@@ -8,5 +8,6 @@ content: >
 # buttonName: Contact me
 # buttonURL: contact
 image: images/hero/hero.jpg
+mask: images/hero/hero-mask-svg.png
 #videoThumb: images/hero/popup-thumb.png
 #videoURL: https://www.youtube.com/watch?v=dQw4w9WgXcQ
