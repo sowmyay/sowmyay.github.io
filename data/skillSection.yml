@@ -7,15 +7,15 @@ content: >
 image: images/skill/skill_image.jpg
 
 skill:
+  - title: Kubernetes
+    percent: 90
+  - title: Docker
+    percent: 90
   - title: Python
     percent: 90
+  - title: Java
+    percent: 85
   - title: SQL
     percent: 85
   - title: Pytorch
-    percent: 75
-  - title: Java
-    percent: 70
-  - title: Docker
-    percent: 70
-  - title: Pyspark
-    percent: 50
+    percent: 80

@@ -23,35 +23,44 @@ education:
       
       ##### Specialization: Machine Learning
 
-      Georgia Institue of Technology (GATech)
+      Georgia Institue of Technology (Georgia Tech)
     time: 2017-2019 | Atlanta, USA
   - content: >
       #### MSc. Mathematics
 
-      Birla Institute of Technology and Sciences (BITS)
+      Birla Institute of Technology and Sciences (BITS Pilani)
     time: 2011-2016 | Pilani, India
   - content: >
       #### B.Eng Manufacturing Engineering
       
-      Birla Institute of Technology and Sciences (BITS)
+      Birla Institute of Technology and Sciences (BITS Pilani)
     time: 2011-2016 | Pilani, India
   
 experience:
   - content: >
-      #### Senior Software Engineer - Data
+      #### Senior Machine Learning Engineer
 
-      ##### rideOS – a Gopuff company
-
-      Worked in the maps team, where I built and deployed several pipelines for accurate data capture of GPS position updates and trip updates.
-
+      ##### GoPuff
       
-      I further built monitoring dashboards that periodically track the quality of the estimated (ETA) and actual time of arrival (ATA).
-
+      Developed MLOps infrastructure to deploy multiple models via microservices to facilitate real-time serving.
       
-      I also investigated ML models to improve the performance of ETA predictions and predicting missing speeds on the road network.
+      Spearheaded the efforts to establish MLOps best practices across the organization and automated the training and deployment of ML models.
 
-    time: 2020-Present | Berlin, Germany
+      Worked on setting up event-based data pipelines in multiple cloud computing environments (GCP, Azure).
+
+      Also built multiple models to improve the accuracy of the estimate time of arrival predicted by the routing engine
+
+    time: 2020-Present | Remote, Germany
   
+  - content: >
+      #### External ML Contributor
+
+      ##### Ruumi
+
+      Built a deep learning model to detect and remove clouds in satellite imagery while ensuring image recency and scene accuracy.
+
+    time: 2020 | Remote, Germany
+
   - content: >
       #### Data Scientist
 
@@ -65,7 +74,7 @@ experience:
   - content: >
       #### Research Assistant
 
-      ##### Center for Spatial Planning Analytics and Visualization 
+      ##### Georgia Tech - Center for Spatial Planning Analytics and Visualization
 
       Developed an interactive iOS application for location intelligence and geospatial navigation that is specifically targeted for the visually challenged.
     time: 2018-2019 | Atlanta, USA
@@ -82,7 +91,7 @@ experience:
 
     time: Summer 2018 | Palo Alto, USA
   - content: >
-      #### Software Developer
+      #### iOS Software Developer
       
       ##### Zoomcar Pvt Ltd
 
@@ -97,6 +106,6 @@ experience:
 
       ##### Indian Institute of Technology, Mumbai
 
-      Developed an image processing - windows desktop application for the identification and manipulation of contours in microscopic images.
+      Developed an image processing - windows application for the identification and manipulation of contours in microscopic images.
 
     time: Summer 2014 | Mumbai, India
