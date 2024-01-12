@@ -53,7 +53,7 @@ experience:
 
       - Built several microservices to host multiple ML models (XGBoost, Pytorch etc).
 
-      - Built dashboard to track model performances in product and add alerts in case of performance drifts
+      - Built data-pipelines and dashboards to track model performances and drift detection, in production.
 
 
       Data Science
@@ -80,6 +80,7 @@ experience:
 
       To solve this challenge, I built a deep learning model to detect and remove clouds in satellite imagery while ensuring image recency and scene accuracy.
 
+
       Blog - https://eng.ruumi.io/post/seeing-through-clouds.html
 
     time: 2020 | Remote, Germany
@@ -93,7 +94,7 @@ experience:
 
       
       Developed machine learning models to predict real time road statistics such as transition or turn costs and speeds.
-      These in turn contributed toward improving the predicted route quality.
+      These in-turn contributed toward improving the predicted route quality.
 
     time: 2019-2020 | Berlin, Germany
   - content: >
