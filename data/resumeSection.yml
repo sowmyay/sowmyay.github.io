@@ -42,25 +42,45 @@ experience:
 
       ##### GoPuff
       
-      Developed MLOps infrastructure to deploy multiple models via microservices to facilitate real-time serving.
+      MLOps
+      - Developed MLOps infrastructure to deploy multiple models via microservices to facilitate real-time serving.
       
-
-      Spearheaded the efforts to establish MLOps best practices across the organization and automated the training and deployment of ML models.
-
-
-      Worked on setting up event-based data pipelines in multiple cloud computing environments (GCP, Azure).
+      - Spearheaded the efforts to establish MLOps best practices across the organization and automated the training and deployment of ML models.
 
 
-      Also built multiple models to improve the accuracy of the estimate time of arrival predicted by the routing engine
+      ML/Software Engineering
+      - Worked on setting up event-based data pipelines in multiple cloud computing environments (GCP, Azure).
+
+      - Built several microservices to host multiple ML models (XGBoost, Pytorch etc).
+
+      - Built dashboard to track model performances in product and add alerts in case of performance drifts
+
+
+      Data Science
+      - Built multiple models to improve the accuracy of the estimate time of arrival predicted by the routing engine
+
+
+      Patent
+      - https://patents.justia.com/patent/20220343248
 
     time: 2020-Present | Remote, Germany
   
   - content: >
       #### External ML Contributor
 
-      ##### Ruumi
+      ##### Ruumi.io
 
-      Built a deep learning model to detect and remove clouds in satellite imagery while ensuring image recency and scene accuracy.
+      Ruumi enables farmers to operate productive farms with reduced inputs and lower emissions.
+      This is done by monitoring soil health to provide informed solutions to farmers.
+
+
+      Open source satellite imagery is critical resource for detecting and monitoring soil health.
+      However, satellite images are prone to cloud cover which would render them unusable for such applications.
+
+
+      To solve this challenge, I built a deep learning model to detect and remove clouds in satellite imagery while ensuring image recency and scene accuracy.
+
+      Blog - https://eng.ruumi.io/post/seeing-through-clouds.html
 
     time: 2020 | Remote, Germany
 
@@ -69,15 +89,17 @@ experience:
 
       ##### Daimler Mobility Services
 
-      Worked in the routing team towards improving ETA and route prediction quality.
+      Worked in the routing team that developed map data and routing algorithms for the autonomous driving technology developed at Daimler.
 
       
-      Built machine learning models to predict real time road statistics such as transition or turn costs and speeds.
+      Developed machine learning models to predict real time road statistics such as transition or turn costs and speeds.
+      These in turn contributed toward improving the predicted route quality.
+
     time: 2019-2020 | Berlin, Germany
   - content: >
       #### Research Assistant
 
-      ##### Georgia Tech - Center for Spatial Planning Analytics and Visualization
+      ##### Georgia Institute of Technology - Center for Spatial Planning Analytics and Visualization
 
       Developed an interactive iOS application for location intelligence and geospatial navigation that is specifically targeted for the visually challenged.
     time: 2018-2019 | Atlanta, USA
