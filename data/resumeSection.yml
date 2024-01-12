@@ -44,9 +44,12 @@ experience:
       
       Developed MLOps infrastructure to deploy multiple models via microservices to facilitate real-time serving.
       
+
       Spearheaded the efforts to establish MLOps best practices across the organization and automated the training and deployment of ML models.
 
+
       Worked on setting up event-based data pipelines in multiple cloud computing environments (GCP, Azure).
+
 
       Also built multiple models to improve the accuracy of the estimate time of arrival predicted by the routing engine
 
